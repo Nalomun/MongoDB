@@ -1,2 +1,22 @@
-# MongoDB
-Using Node to query and modify a Mongo Document Database
+# IEEE VIS 2020 Tweet Analysis
+
+MongoDB queries analyzing tweets from the 2020 IEEE VIS Conference.
+
+## Setup
+
+Follow MongoDB setup with the canvas modules.
+
+## Queries
+
+Run any query with `node <filename>`:
+
+- **Query1.js** — Count of tweets that aren't retweets or replies
+- **Query2.js** — Top 10 screen names by follower count
+- **Query3.js** — User with the most tweets
+- **Query4.js** — Top 10 users by average retweets (min 3 tweets)
+- **Query5.js** — Separates the embedded user data into its own `users` collection and creates a `tweets_only` collection that references users by id
+
+## Tech
+
+- Node.js
+- MongoDB
