@@ -1,6 +1,6 @@
 # Assignment 5 Tweet Analysis
 
-MongoDB queries analyzing tweets from the 2020 IEEE VIS Conference.
+MongoDB queries analyzing tweets from the 2020 IEEE VIS Conference
 
 ## Setup
 
